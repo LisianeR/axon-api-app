@@ -14,7 +14,7 @@ class TransitReceiversController extends Controller
      */
     public function index()
     {
-        //
+        //ajustar
     }
 
     /**

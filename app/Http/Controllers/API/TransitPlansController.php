@@ -14,7 +14,7 @@ class TransitPlansController extends Controller
      *     tags={"/Transit/seachByUserId"},
      *     path="/Transit/seachByUserId",
      *     security={{"bearerAuth": {}}},
-     *     @OA\Response(response="200", description="Retorna a lista completa de viagens.")
+     *     @OA\Response(response="200", description="Retorna a lista completa de viagens. Ajustar")
      * )
      */
     public function index()
