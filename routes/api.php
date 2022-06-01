@@ -22,6 +22,4 @@ Route::group(['middleware' =>['auth'], 'prefix'=>'Transit'],function () { //viag
 
 Route::group(['middleware' =>['auth'], 'prefix'=>'Message'],function () { //mensagens
 
-
-
 });
